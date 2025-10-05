@@ -1,30 +1,26 @@
-{
-  "target_package": "com.garena.game.df",
-  "target_lib": "libanogs.so",
-  "patches": [
-    {
-      "offset": "0x395BAC",
-      "bytes": "6E 6F 53 44 4B 47"
-    },
-    {
-      "offset": "0x113F98",
-      "bytes": "6E 6F 53 44 4B 47"
-    },
-    {
-      "offset": "0x407240",
-      "bytes": "6E 6F 53 44 4B 47"
-    },
-    {
-      "offset": "0x407238",
-      "bytes": "6E 6F 53 44 4B 47"
-    },
-    {
-      "offset": "0x113FC4",
-      "bytes": "6E 6F 53 44 4B 47"
-    },
-    {
-      "offset": "0x67AFE",
-      "bytes": "6E 6F 53 44 4B 47"
-    }
-  ]
-}
+[
+  {
+    "offset": "0x395BAC",
+    "bytes": "6E 6F 53 44 4B 47"
+  },
+  {
+    "offset": "0x113F98",
+    "bytes": "6E 6F 53 44 4B 47"
+  },
+  {
+    "offset": "0x407240",
+    "bytes": "6E 6F 53 44 4B 47"
+  },
+  {
+    "offset": "0x407238",
+    "bytes": "6E 6F 53 44 4B 47"
+  },
+  {
+    "offset": "0x113FC4",
+    "bytes": "6E 6F 53 44 4B 47"
+  },
+  {
+    "offset": "0x67AFE",
+    "bytes": "6E 6F 53 44 4B 47"
+  }
+]
