@@ -1,7 +1,5 @@
 {
-  "target_package": "com.tencent.ig",
-  "pattern_to_find": "F3 0F 1E F8",
+  "pattern_to_find": "00 00 00 00",
   "patch_bytes": "00 00 A0 E3",
-  "lib_name": "libanogs.so",
   "version": "1.0"
 }
